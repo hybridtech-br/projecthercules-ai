@@ -24,7 +24,7 @@ Project Hercules AI:
 ## Installation
 
 1. Add this repository to Home Assistant Add-on Store:
-   https://github.com/SEU_USUARIO/projecthercules-ai
+   https://github.com/hybridtech-br/projecthercules-ai
 
 2. Install the "Project Hercules AI" add-on.
 
@@ -36,3 +36,4 @@ Project Hercules AI:
 ## License
 
 Apache 2.0
+
